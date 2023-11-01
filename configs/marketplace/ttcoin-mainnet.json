@@ -1,0 +1,110 @@
+[
+	{
+		"author": "TTcoin",
+		"id": "ttcoinnetwork",
+		"title": "TTcoin Network",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/ttcoinnetwork.png",
+		"categories": ["App"],
+		"shortDescription": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
+		"site": "https://play.google.com/store/apps/details?id=com.tc.network",
+		"external": true,
+		"description": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
+		"url": "https://play.google.com/store/apps/details?id=com.tc.network"
+	},
+	{
+		"author": "TTcoin",
+		"id": "tcwallet",
+		"title": "TC-Wallet Pro",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/wallet.png",
+		"categories": ["App"],
+		"shortDescription": "TC-Wallet Pro is a web3 wallet currently using the TSC network.",
+		"external": true,
+		"site": "https://play.google.com/store/apps/details?id=com.ttcoin.tcwallet",
+		"description": "A web3 wallet where you can control your cryptocurrencies and TTcoin balances, which you can use with all EVM compatible blockchains.",
+		"url": "https://play.google.com/store/apps/details?id=com.ttcoin.tcwallet"
+	},
+    {
+		"author": "TTcoin",
+		"id": "ttcointrees",
+		"title": "TTcoin Trees",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/trees.png",
+		"categories": ["App"],
+		"shortDescription": "Multi-factor mobile application where users mine and develop an ecosystem.",
+		"external": true,
+		"site": "https://play.google.com/store/apps/details?id=com.ttcoin.trees",
+		"description": "Multi-factor mobile application where users mine and develop an ecosystem.",
+		"url": "https://play.google.com/store/apps/details?id=com.ttcoin.trees"
+	},
+	{
+		"author": "TTcoin",
+		"id": "multisender",
+		"title": "TSC Multisender",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/tscmultisender.png",
+		"categories": ["multisender"],
+		"shortDescription": "Site for sending TTcoins and TSC-20 tokens to wallets in bulk.",
+		"site": "https://multisender.tscscan.com/",
+		"external": true,
+		"description": "Site for sending TTcoins and TSC-20 tokens to wallets in bulk.",
+		"url": "https://multisender.tscscan.com/"
+	},
+	{
+		"author": "TTcoin",
+		"id": "staking",
+		"title": "TC-Staking",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/staking.png",
+		"categories": ["Staking"],
+		"shortDescription": "TTcoin Staking",
+		"site": "https://stake.tscscan.com",
+		"external": true,
+		"description": "TTcoin Staking",
+		"url": "https://stake.tscscan.com/"
+	},
+	{
+		"author": "TTcoin",
+		"id": "swap",
+		"title": "TC-Swap",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/swap.png",
+		"categories": ["Swap"],
+		"shortDescription": "TTcoin Swap",
+		"site": "https://swap.tscscan.com/",
+		"external": true,
+		"description": "TTcoin Swap",
+		"url": "https://swap.tscscan.com/"
+	},
+	{
+		"author": "TTcoin",
+		"id": "bridge",
+		"title": "TTcoin Bridge",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/bridge.png",
+		"categories": ["Bridge"],
+		"shortDescription": "TTcoin Bridge",
+		"site": "https://bridge.tscscan.com/",
+		"external": true,
+		"description": "TTcoin Bridge",
+		"url": "https://bridge.tscscan.com/"
+	},
+	{
+		"author": "TTcoin",
+		"id": "airdrop",
+		"title": "TC-Airdrop",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/airdrop.png",
+		"categories": ["Airdrop"],
+		"shortDescription": "TTcoin Airdrop",
+		"site": "https://airdrop.tscscan.com/",
+		"external": true,
+		"description": "TTcoin Airdrop",
+		"url": "https://airdrop.tscscan.com/"
+	},
+	{
+		"author": "TTcoin",
+		"id": "faucet",
+		"title": "TTcoin Faucet",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/faucet.png",
+		"categories": ["Faucet"],
+		"shortDescription": "Testnet TTcoin faucet site.",
+		"site": "https://faucet.tscscan.com/",
+		"external": true,
+		"description": "Testnet TTcoin faucet site. You can get a Test token every 24 hours and test your work on the Test network.",
+		"url": "https://faucet.tscscan.com/"
+	}
+]
