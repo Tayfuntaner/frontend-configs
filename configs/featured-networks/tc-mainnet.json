@@ -2,13 +2,13 @@
     "title": "TTcoin Mainnet",
     "url": "https://tscscan.com/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/tc.svg",
     "isActive": true
 },
 {
     "title": "TTcoin Testnet",
     "url": "http://test.tscscan.com/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/tc.svg"
 }
 ]
