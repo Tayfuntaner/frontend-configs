@@ -40,7 +40,7 @@
 		"id": "multisender",
 		"title": "TSC Multisender",
 		"logo": "https://ttscan.net/logo/TscScan/dApp/tscmultisender.png",
-		"categories": ["multisender"],
+		"categories": ["Multisender"],
 		"shortDescription": "Site for sending TTcoins and TSC-20 tokens to wallets in bulk.",
 		"site": "https://multisender.tscscan.com/",
 		"external": true,
@@ -106,5 +106,17 @@
 		"external": true,
 		"description": "Testnet TTcoin faucet site. You can get a Test token every 24 hours and test your work on the Test network.",
 		"url": "https://faucet.tscscan.com/"
+	},
+	{
+		"author": "Turan Network",
+		"id": "turan",
+		"title": "Turan Network",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/turan.png",
+		"categories": ["app"],
+		"shortDescription": "Mine TURAN tokens",
+		"site": "https://play.google.com/store/apps/details?id=com.turan.network",
+		"external": true,
+		"description": "Mine Turan tokens on your phone with cloud mining",
+		"url": "https://play.google.com/store/apps/details?id=com.turan.network"
 	}
 ]
