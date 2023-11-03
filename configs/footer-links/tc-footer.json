@@ -1,6 +1,6 @@
 [
 	{
-		"title": "",
+		"title": "TTcoin Explorer",
 		"links": [
 			{
 				"text": "Documentation",
@@ -9,12 +9,7 @@
 			{
 				"text": "Submit Request",
 				"url": "https://docs.google.com/forms/d/e/1FAIpQLScqx1jJFxMH75AS24Fk4qDUmgXpJ__G4WyTDLoE50pCN-__bA/viewform"
-			}
-		]
-	},
-  {
-		"title": "",
-		"links": [
+			},
 			{
 				"text": "Network Status",
 				"url": "https://status.tscscan.com/"
@@ -22,12 +17,7 @@
 			{
 				"text": "Official Website",
 				"url": "https://ttcoin.info"
-			}
-		]
-	},
-  {
-		"title": "",
-		"links": [
+			},
 			{
 				"text": "Twitter",
 				"url": "https://twitter.com/tscscan"
