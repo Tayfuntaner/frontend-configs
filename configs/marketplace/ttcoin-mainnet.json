@@ -118,5 +118,17 @@
 		"external": true,
 		"description": "Mine Turan tokens on your phone with cloud mining",
 		"url": "https://play.google.com/store/apps/details?id=com.turan.network"
+	},
+	{
+		"author": "TTcoin",
+		"id": "tsctc",
+		"title": "TSC.TC Link Shorten",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/tsctc.png",
+		"categories": ["app"],
+		"shortDescription": "Link shortening site",
+		"site": "https://tsc.tc",
+		"external": true,
+		"description": "Create more efficient work by shortening long links. It's free",
+		"url": "https://tsc.tc"
 	}
 ]
