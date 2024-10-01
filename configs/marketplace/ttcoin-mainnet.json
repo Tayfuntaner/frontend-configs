@@ -3,13 +3,13 @@
 		"author": "TTcoin",
 		"id": "ttcoinnetwork",
 		"title": "TTcoin Network",
-		"logo": "https://ttscan.net/logo/TscScan/dApp/ttcoinnetwork.png",
+		"logo": "https://static.wixstatic.com/media/5d6dff_34d8465d799447fe94901f96d5fdddd7~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ikon.png",
 		"categories": ["App"],
 		"shortDescription": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
 		"site": "https://play.google.com/store/apps/details?id=com.tc.network",
 		"external": true,
 		"description": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
-		"url": "https://play.google.com/store/apps/details?id=com.tc.network"
+		"url": "https://play.google.com/store/apps/details?id=com.ttcoin.network"
 	},
 	{
 		"author": "TTcoin",
