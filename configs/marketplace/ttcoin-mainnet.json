@@ -108,18 +108,6 @@
 		"url": "https://faucet.tscscan.com/"
 	},
 	{
-		"author": "Turan Network",
-		"id": "turan",
-		"title": "Turan Network",
-		"logo": "https://ttscan.net/logo/TscScan/dApp/turan.png",
-		"categories": ["App"],
-		"shortDescription": "Mine TURAN tokens",
-		"site": "https://play.google.com/store/apps/details?id=com.turan.network",
-		"external": true,
-		"description": "Mine Turan tokens on your phone with cloud mining",
-		"url": "https://play.google.com/store/apps/details?id=com.turan.network"
-	},
-	{
 		"author": "TTcoin",
 		"id": "tsctc",
 		"title": "TSC.TC Link Shorten",
