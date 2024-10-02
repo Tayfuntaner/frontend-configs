@@ -122,7 +122,7 @@
 	{
 		"author": "TTcoin",
 		"id": "xtcom",
-		"title": "XT:COM Exchange",
+		"title": "XT.COM Exchange",
 		"logo": "https://play-lh.googleusercontent.com/7VVo1XTtPDRrSHrWa6TXwEHIQNyBu1BOJ19gQCK6F3HQfR7ru725w5pX0LBlCF1WpA",
 		"categories": ["Exchange"],
 		"shortDescription": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
@@ -135,7 +135,7 @@
 		"author": "TTcoin",
 		"id": "koinbx",
 		"title": "KoinBX Exchange",
-		"logo": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/c1yudhnwo2kfmgo7u59r",
+		"logo": "https://assets.coingecko.com/markets/images/751/large/photo_2023-02-19_12-57-51.jpg?1706864782",
 		"categories": ["Exchange"],
 		"shortDescription": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
 		"site": "https://koinbx.com/trade/TC_USDT",
