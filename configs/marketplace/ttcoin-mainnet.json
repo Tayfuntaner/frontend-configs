@@ -118,5 +118,30 @@
 		"external": true,
 		"description": "Create more efficient work by shortening long links. It's free",
 		"url": "https://tsc.tc"
+	},
+	{
+		"author": "TTcoin",
+		"id": "xtcom",
+		"title": "XT:COM Exchange",
+		"logo": "https://play-lh.googleusercontent.com/7VVo1XTtPDRrSHrWa6TXwEHIQNyBu1BOJ19gQCK6F3HQfR7ru725w5pX0LBlCF1WpA",
+		"categories": ["Exchange"],
+		"shortDescription": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
+		"site": "https://www.xt.com/en/accounts/register/start?ref=92DMCC",
+		"external": true,
+		"description": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
+		"url": "https://www.xt.com/en/accounts/register/start?ref=92DMCC"
+	},
+	{
+		"author": "TTcoin",
+		"id": "koinbx",
+		"title": "KoinBX Exchange",
+		"logo": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/c1yudhnwo2kfmgo7u59r",
+		"categories": ["Exchange"],
+		"shortDescription": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
+		"site": "https://koinbx.com/trade/TC_USDT",
+		"external": true,
+		"description": "Exchange with TSC Mainnet attached. You can trade TTcoin.",
+		"url": "https://koinbx.com/trade/TC_USDT"
 	}
+	
 ]
