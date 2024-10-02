@@ -5,10 +5,10 @@
 		"title": "TTcoin Network",
 		"logo": "https://static.wixstatic.com/media/5d6dff_34d8465d799447fe94901f96d5fdddd7~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ikon.png",
 		"categories": ["App"],
-		"shortDescription": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
-		"site": "https://play.google.com/store/apps/details?id=com.tc.network",
+		"shortDescription": "Get free mobile mining. 15M+ Miner. Withdraw your earnings to your TTcoin wallet or exchanges.",
+		"site": "https://play.google.com/store/apps/details?id=com.ttcoin.network",
 		"external": true,
-		"description": "Get free mobile mining. Withdraw your earnings to your TTcoin wallet or exchanges.",
+		"description": "Get free mobile mining. 15M+ Miner. Withdraw your earnings to your TTcoin wallet or exchanges.",
 		"url": "https://play.google.com/store/apps/details?id=com.ttcoin.network"
 	},
 	{
@@ -27,7 +27,7 @@
 		"author": "TTcoin",
 		"id": "ttcointrees",
 		"title": "TTcoin Trees",
-		"logo": "https://ttscan.net/logo/TscScan/dApp/trees.png",
+		"logo": "https://static.wixstatic.com/media/5d6dff_d8efb8f97ee44ead832e06e7f71022a1~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TTcoin%20Trees%20logo.png",
 		"categories": ["App"],
 		"shortDescription": "Multi-factor mobile application where users mine and develop an ecosystem.",
 		"external": true,
