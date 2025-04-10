@@ -16,12 +16,12 @@
 		"id": "createtoken",
 		"title": "Create Token",
 		"logo": "https://ttscan.net/logo/TscScan/dApp/createtoken.png",
-		"categories": ["dApp"],
+		"categories": ["App"],
 		"shortDescription": "Easily create your token and verify your smart contract on the TSC network.",
-		"site": "https://createtoken.tscscan.com/",
+		"site": "https://createtoken.tscscan.com",
 		"external": true,
 		"description": "Easily create your token and verify your smart contract on the TSC network.",
-		"url": "https://createtoken.tscscan.com/"
+		"url": "https://createtoken.tscscan.com"
 	},
 	{
 		"author": "TTcoin",
