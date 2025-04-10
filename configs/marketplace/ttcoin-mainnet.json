@@ -15,7 +15,7 @@
 		"author": "TTcoin",
 		"id": "createtoken",
 		"title": "Create Token",
-		"logo": "https://createtoken.tscscan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b2579f22.png&w=128&q=75",
+		"logo": "https://ttscan.net/logo/TscScan/dApp/createtoken.png",
 		"categories": ["dApp"],
 		"shortDescription": "Easily create your token and verify your smart contract on the TSC network.",
 		"site": "https://createtoken.tscscan.com/",
