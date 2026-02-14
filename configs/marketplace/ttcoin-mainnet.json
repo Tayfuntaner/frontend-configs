@@ -1,4 +1,4 @@
-[
+a[
 	{
 		"author": "TTcoin",
 		"id": "ttcoinnetwork",
@@ -74,14 +74,14 @@
 	{
 		"author": "TTcoin",
 		"id": "swap",
-		"title": "TC-Swap",
+		"title": "TetraSwap",
 		"logo": "https://ttscan.net/logo/TscScan/dApp/swap.png",
 		"categories": ["Swap"],
-		"shortDescription": "TTcoin Swap",
-		"site": "https://swap.tscscan.com/",
+		"shortDescription": "The first swap system of the TSC mainnet.",
+		"site": "https://tetraswap.com/",
 		"external": true,
-		"description": "TTcoin Swap",
-		"url": "https://swap.tscscan.com/"
+		"description": "The first swap system of the TSC mainnet.",
+		"url": "https://tetraswap.com/"
 	},
 	{
 		"author": "TTcoin",
