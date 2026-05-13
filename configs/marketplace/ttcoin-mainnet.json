@@ -86,8 +86,8 @@
 	{
 		"author": "TTcoin",
 		"id": "swap",
-		"title": "TetraSwap",
-		"logo": "https://ttscan.net/logo/TscScan/dApp/swap.png",
+		"title": "TetraSwap (SOON)",
+		"logo": "http://img.ttscan.net//uploads/20260513_111358_4d29f7f05285.png",
 		"categories": ["Swap"],
 		"shortDescription": "The first swap system of the TSC mainnet.",
 		"site": "https://tetraswap.com/",
@@ -98,19 +98,19 @@
 	{
 		"author": "TTcoin",
 		"id": "bridge",
-		"title": "TTcoin Bridge",
+		"title": "TTcoin Bridge (SOON)",
 		"logo": "https://ttscan.net/logo/TscScan/dApp/bridge.png",
 		"categories": ["Bridge"],
 		"shortDescription": "TTcoin Bridge",
-		"site": "https://bridge.tscscan.com/",
+		"site": "https://bridge.tetraswap.com/",
 		"external": true,
 		"description": "TTcoin Bridge",
-		"url": "https://bridge.tscscan.com/"
+		"url": "https://bridge.tetraswap.com/"
 	},
 	{
 		"author": "TTcoin",
 		"id": "airdrop",
-		"title": "TC-Airdrop",
+		"title": "TC-Airdrop (SOON)",
 		"logo": "https://ttscan.net/logo/TscScan/dApp/airdrop.png",
 		"categories": ["Airdrop"],
 		"shortDescription": "TTcoin Airdrop",
@@ -122,13 +122,13 @@
 	{
 		"author": "TTcoin",
 		"id": "faucet",
-		"title": "TTcoin Faucet",
-		"logo": "https://ttscan.net/logo/TscScan/dApp/faucet.png",
+		"title": "TC Faucet",
+		"logo": "http://img.ttscan.net//uploads/20260512_202130_a9b8c944bd65.png",
 		"categories": ["Faucet"],
-		"shortDescription": "Testnet TTcoin faucet site.",
+		"shortDescription": "Mainnet TTcoin faucet site.",
 		"site": "https://faucet.tscscan.com/",
 		"external": true,
-		"description": "Testnet TTcoin faucet site. You can get a Test token every 24 hours and test your work on the Test network.",
+		"description": "Mainnet TTcoin faucet site. You can receive TC every 24 hours and test your work on the Mainnet.",
 		"url": "https://faucet.tscscan.com/"
 	},
 	{
